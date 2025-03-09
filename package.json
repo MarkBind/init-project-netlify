@@ -1,0 +1,12 @@
+{
+    "name": "markbind-project-template",
+    "version": "4.0.2",
+    "description": "Project Template for MarkBind",
+    "dependencies": {
+        "markbind-cli": "4.0.2"
+    },
+    "scripts": {
+        "serve": "markbind serve your_site",
+        "build": "markbind build your_site your_site/_site"
+    }
+}
